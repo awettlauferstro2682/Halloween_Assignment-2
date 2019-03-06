@@ -1,0 +1,15 @@
+h1 {
+    Color: Orange;
+    text-shadow: 3px 0px Black;
+    align-items: left;
+    line-height: 3 ;
+}
+body {
+  font-family: "Sans-Serif", Arial, Verdana;
+  /*Now, how to make everything this font...
+    without having to repeat it..?*/
+  text-align: center;
+}
+img{
+  float: center;
+}
